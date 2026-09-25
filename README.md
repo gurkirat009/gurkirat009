@@ -75,7 +75,7 @@ A responsive e-commerce platform developed using modern frontend and backend tec
 
 `React.js` `Redux` `Node.js` `Express.js` `MongoDB` `JWT`
 
-🔗 **[View Project](https://github.com/gurkirat009)**
+🔗 **[View Project]([https://github.com/gurkirat009/ecommerce-web-platform))**
 
 ---
 
@@ -99,7 +99,7 @@ A blog management platform with authentication and complete content management f
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
-🔗 **[View Project](https://github.com/gurkirat009)**
+🔗 **[View Project](https://github.com/gurkirat009/blog-management-system)**
 
 ---
 
